@@ -1,10 +1,8 @@
 # Template Engine - Employee Summary Application
-
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40Eng.JordanNaei-orange)
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/License-ISC-blue.svg "License Badge")
 
-## Description
-
+# Description
 This is a command line application. The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. 
 
 This application provides a preliminary validations on the User delivered answers, which can be further enhanced/tailored based on the usage case, so to ensure refactoring need we kept the validation at a very high level.
@@ -29,4 +27,4 @@ This application provides a preliminary validations on the User delivered answer
 
 ## Repository
 
-- [Project Repo](https://github.com/hoffman1200/Homework-10)
+- [Project Repo](https://github.com/JordanNaei/teamProfileGenerator)
