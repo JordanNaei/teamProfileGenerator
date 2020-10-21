@@ -11,7 +11,7 @@ This application provides a preliminary validations on the User delivered answer
 
 ![Git](./Develop/img/appVideo.gif)
 
-[Video Link](https://drive.google.com/file/d/1Vx8YMpshH6HI9JQmLzVTENSoJ4v4QMiA/view)
+[Video Link](https://drive.google.com/file/d/1UZDPXKv-AT5MDK3b53P4zQOheywngdah/view?usp=sharing)
 
 # Application Generated HTML Page Sample
 
@@ -19,7 +19,7 @@ This application provides a preliminary validations on the User delivered answer
 
 # Application added to Profile
 
-![Application added to profile]()
+![Application added to profile](./Develop/img/addedPro.PNG)
 
 # Installation
 1- Ensure initilazing the application with nmp i, to include all dependent modules included in the package.json file.
